@@ -1,0 +1,16 @@
+C:\Users\iscrq\Desktop\ws\bin\Debug\net5.0\ws.exe
+C:\Users\iscrq\Desktop\ws\bin\Debug\net5.0\ws.deps.json
+C:\Users\iscrq\Desktop\ws\bin\Debug\net5.0\ws.runtimeconfig.json
+C:\Users\iscrq\Desktop\ws\bin\Debug\net5.0\ws.runtimeconfig.dev.json
+C:\Users\iscrq\Desktop\ws\bin\Debug\net5.0\ws.dll
+C:\Users\iscrq\Desktop\ws\bin\Debug\net5.0\ref\ws.dll
+C:\Users\iscrq\Desktop\ws\bin\Debug\net5.0\ws.pdb
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ws.csprojAssemblyReference.cache
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ws.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ws.AssemblyInfoInputs.cache
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ws.AssemblyInfo.cs
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ws.csproj.CoreCompileInputs.cache
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ws.dll
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ref\ws.dll
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ws.pdb
+C:\Users\iscrq\Desktop\ws\obj\Debug\net5.0\ws.genruntimeconfig.cache
